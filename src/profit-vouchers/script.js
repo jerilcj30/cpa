@@ -32,7 +32,7 @@ function showQuestions() {
         message3.classList.remove('hidden');
       }, 5000); // display message3 after 2 seconds
       setTimeout(function() {
-        window.location.href = "https://gdmtrck.com/?a=127540&c=331989&co=173820&mt=8"; // redirect to offer page after 3 seconds
+        window.location.href = "https://eazox.bemobtrcks.com/click/4"; // redirect to offer page after 3 seconds
       }, 7000);
     }
 }

@@ -32,7 +32,7 @@ function showQuestions() {
         message3.classList.remove('hidden');
       }, 5000); // display message3 after 2 seconds
       setTimeout(function() {
-        window.location.href = "https://track.johcp.com/c7phl9k.php?lp=1&to_offer=1"; // redirect to offer page after 3 seconds
+        window.location.href = "https://track.johcp.com/c7phl9k.php?lp=1&to_offer=2"; // redirect to offer page after 3 seconds
       }, 7000);
     }
 }
